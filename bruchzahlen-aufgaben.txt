@@ -1,0 +1,36 @@
+Aufgaben
+==========
+1. Erstellen Sie eine Klasse "Fraction" (class Fraction) mit folgenden privaten Eigenschaften:
+   - int nom (nominator = Zähler)
+   - int denom (denominator = Nenner)
+2. Erstellen Sie in der Klasse folgende öffentliche Konstruktoren:
+   - Fraction() -> setzt nom und denom jeweils auf 1
+   - Fraction (int nom, int denom ) -> setzt nom und denom auf die angegebenen Werte, sofern denom ungleich 0 ist
+
+   3. Erstellen Sie in der Klasse folgende öffentliche Methoden:
+   - Setter- und Getter-Methoden für nom und denom; denom darf nicht 0 werden!
+   
+   - Fraction* multiply( int nominator, int denominator ) => multipliziert mit einem Bruch, speichert Ergebnis im Bruch
+     und gibt das Ergebnis auch zurück
+	 
+   - Fraction* multiply( Fraction fraction ) 
+   => multipliziert mit einem Bruch, speichert Ergebnis im Bruch
+     und gibt das Ergebnis auch zurück
+	 
+   - Fraction* divide( int nominator, int denominator ) => dividiert durch einen Bruch, speichert Ergebnis im Bruch
+     und gibt das Ergebnis auch zurück
+	 
+   - void divide( Fraction fraction ) 
+   => dividiert durch einen Bruch, speichert Ergebnis im Bruch
+     und gibt das Ergebnis auch zurück
+	 ________________________________________________
+   - Fraction* add( int nominator, int denominator ) 
+   => addiert einen Bruch, speichert Ergebnis im Bruch
+     und gibt das Ergebnis auch zurück
+	 
+   - void add( Fraction fraction ) => addiert einen Bruch, speichert Ergebnis im Bruch
+     und gibt das Ergebnis auch zurück
+	 
+   - Fraction* subtract( int nominator, int denominator )
+   => subtrahiert einen Bruch, speichert Ergebnis im Bruch
+     und gibt das Ergebnis auch zurück
