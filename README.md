@@ -1,4 +1,4 @@
-2. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Aufgabe 4/4 PMC)
+#1. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Aufgabe 4/4 PMC)
 
 In der bruchzahlen-aufgaben.txt sind die gestellten Aufgaben des Lehrers. Kurzgesagt:
 Eine Klasse (Fraction) soll erstellt werden und Diese soll wie ein Bruch funktionieren.
